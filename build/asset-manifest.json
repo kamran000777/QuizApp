@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88345dfd.css",
+    "main.js": "/static/js/main.cd2e56b3.js",
+    "static/js/787.82d36865.chunk.js": "/static/js/787.82d36865.chunk.js",
+    "static/media/bgQuizBee.jpg": "/static/media/bgQuizBee.4a36c98f5077ddda2695.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.88345dfd.css.map": "/static/css/main.88345dfd.css.map",
+    "main.cd2e56b3.js.map": "/static/js/main.cd2e56b3.js.map",
+    "787.82d36865.chunk.js.map": "/static/js/787.82d36865.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88345dfd.css",
+    "static/js/main.cd2e56b3.js"
+  ]
+}
